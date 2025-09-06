@@ -15,8 +15,8 @@ function App() {
     <>
       <div>
         
-      <h1>Your Movie Choice Is:</h1>
-      <h2>{yourChoice}</h2>
+      <h1 class="text-center text-lg text-white">Your Movie Choice Is:</h1>
+      <h2 class="text-center text-md text-white">{yourChoice}</h2>
       <button onClick={() => chooseMovie(movies)}>
           Choose New Movie
         </button>
