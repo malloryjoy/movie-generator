@@ -11,8 +11,9 @@ export default {
         button: '#0567c9'
       },
       fontFamily: {
-        sans: ['Inter', 'ui-sans-serif', 'system-ui'],
-        mono: ['Fira Code', 'ui-monospace', 'monospace']
+        sans: ['Arial', 'ui-sans-serif', 'system-ui'],
+        serif: ['Times', 'ui-serif', 'Georgia'],
+        amandine: ['Amandine', 'sans-serif'],
       }
     }
   },

@@ -13,11 +13,12 @@ function App() {
   }, [])
   return (
     <>
-      <div class="max-w-full mx-auto text-white py-10 text-center">
-        
-        <h1 class="font-display text-4xl">Your Movie Choice Is:</h1>
-        <h2 class="text-2xl text-white">{yourChoice}</h2>
-      <button class="bg-white text-black px-4 py-2 w-52 mx-2" onClick={() => chooseMovie(movies)}>
+      <div class="max-w-full mx-auto text-white py-10 mt-10 text-center">
+      
+        <h2 class="font-sans text-2xl text-shadow-md text-shadow-pink-700">Your Movie Choice Is:</h2>
+        <h3 class="mt-5 font-amandine text-4xl">✨<span class=" text-white text-shadow-lg text-shadow-pink-500">{yourChoice}</span>✨</h3>
+      <button class="bg-pink-600 text-white rounded-full py-2 px-4 border-b-4 border-b-white cursor-pointer mt-5" onClick={() => chooseMovie(movies)}>
+      
           Choose New Movie
         </button>
 
