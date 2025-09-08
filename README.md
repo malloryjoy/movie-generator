@@ -171,11 +171,11 @@ Project Link: [GitHub](https://github.com/malloryjoy/movie-generator)
 [Javascript-url]: https://www.javascript.com/
 [Typescript.js]: https://img.shields.io/badge/typescript.js-000000?style=for-the-badge&logo=typescriptdotjs&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React.js]: https://img.shields.io/badge/React-e60075?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://reactjs.org/
-[Vite.io]: https://img.shields.io/badge/Vite-e60075?style=for-the-badge&logo=vite&logoColor=white
+[Vite.io]: https://img.shields.io/badge/Vite-e772a7?style=for-the-badge&logo=vite&logoColor=white
 [Vite-url]: http://vite.dev/guide/#scaffolding-your-first-vite-project
-[HTML.io]: https://img.shields.io/badge/HTML-1f75fe
+[HTML.io]: https://img.shields.io/badge/HTML5-e60075?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS.io]: https://img.shields.io/badge/Tailwind_CSS-e772a7?style=for-the-badge&logo=tailwind&logoColor=white
+[CSS.io]: https://img.shields.io/badge/Tailwind_CSS-e772a7?style=for-the-badge&logo=tailwindcss&logoColor=white
 [CSS-url]: https://tailwindcss.com/docs/installation/using-vite
