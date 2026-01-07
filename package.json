@@ -2,7 +2,7 @@
 "name": "movie-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://malloryjoy.github.io/movie-generator/",
+
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
