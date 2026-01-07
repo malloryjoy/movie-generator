@@ -6,6 +6,6 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: 'https://malloryjoy.dev/movie-generator/',
+  base: '/<movie-generator>/',
 })
 

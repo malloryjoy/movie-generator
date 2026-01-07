@@ -1,13 +1,14 @@
 {
-  "name": "movie-generator",
-  "version": "0.0.0",
+"name": "your-project-name",
+  "version": "0.1.0",
   "private": true,
-  "type": "module",
+  "homepage": "https://malloryjoy.github.io/movie-generator/",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.1",
